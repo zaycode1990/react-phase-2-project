@@ -1,1 +1,3 @@
 # react-phase-2-project
+
+As a user I should be able to operate see all the books that my customers could buy on the home page. I can delete the book from the database by clicking the trashcan button on each book card on the home page. Also I should be able to see three Navigation Links. The inventory link driect me to a page with a form that allows me to post a new book to the store to sale. The cart link will direct me to a page that has a form that takes in the customer information and also shows items that's in the cart and a total tally of the cost of item in the cart.  

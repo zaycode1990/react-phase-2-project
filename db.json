@@ -1,0 +1,133 @@
+{
+  "books": [
+    {
+      "id": 23,
+      "title": "Northanger Abbey",
+      "author": "Austen, Jane",
+      "year_written": 1814,
+      "edition": "Penguin",
+      "img": "images/Northangerabbey.jpg",
+      "price": 18.2,
+      "stock": 5
+    },
+    {
+      "id": 97,
+      "title": "Anna Karenina",
+      "author": "Tolstoy, Leo",
+      "year_written": 1875,
+      "edition": "Penguin",
+      "img": "images/annaKarenina.jpg",
+      "price": 13.5,
+      "stock": 5
+    },
+    {
+      "id": 26,
+      "title": "Mrs. Dalloway",
+      "author": "Woolf, Virginia",
+      "year_written": 1925,
+      "edition": "Harcourt Brace",
+      "img": "/images/MrsDalloway.jpg",
+      "price": 25,
+      "stock": 5
+    },
+    {
+      "id": 19,
+      "title": "The Hours",
+      "author": "../Cunnningham, Michael",
+      "year_written": 1999,
+      "edition": "Harcourt Brace",
+      "img": "images/thehours.jpg",
+      "price": 12.35,
+      "stock": 5
+    },
+    {
+      "id": 30,
+      "title": "Huckleberry Finn",
+      "author": "Twain, Mark",
+      "year_written": 1865,
+      "edition": "Penguin",
+      "img": "images/huckleberryfinn.jpg",
+      "price": 5.76,
+      "stock": 5
+    },
+    {
+      "id": 85,
+      "title": "Bleak House",
+      "author": "Dickens, Charles",
+      "year_written": 1870,
+      "edition": "Random House",
+      "img": "images/bleakhouse.jpg",
+      "price": 5.75,
+      "stock": 5
+    },
+    {
+      "id": 46,
+      "title": "Tom Sawyer",
+      "author": "Twain, Mark",
+      "year_written": 1862,
+      "edition": "Random House",
+      "img": "images/tomsawyer.jpg",
+      "price": 7.75,
+      "stock": 5
+    },
+    {
+      "id": 69,
+      "title": "A Room of One's Own",
+      "author": "Woolf, Virginia",
+      "year_written": 1922,
+      "edition": "Penguin",
+      "img": "images/roomofonesown.jpg",
+      "price": 29,
+      "stock": 5
+    },
+    {
+      "id": 32,
+      "title": "Harry Potter",
+      "author": "Rowling, J.K.",
+      "year_written": 2000,
+      "edition": "Harcourt Brace",
+      "img": "images/harrypotter.jpg",
+      "price": 19.95,
+      "stock": 5
+    },
+    {
+      "id": 77,
+      "title": "One Hundred Years of Solitude",
+      "author": "Marquez",
+      "year_written": 1967,
+      "edition": "Harper  Perennial",
+      "img": "images/hundredyearssolitude.jpg",
+      "price": 14,
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "title": "Hamlet, Prince of Denmark",
+      "author": "Shakespeare",
+      "year_written": 1603,
+      "edition": "Signet  Classics",
+      "img": "images/hamlet.jpg",
+      "price": 7.95,
+      "stock": 5
+    },
+    {
+      "id": 20,
+      "title": "Lord of the Rings",
+      "author": "Tolkien, J.R.",
+      "year_written": 1937,
+      "edition": "Penguin",
+      "img": "images/lordoftherings.jpg",
+      "price": 27.45,
+      "stock": 5
+    },
+    {
+      "title": "The Dark Knight Return",
+      "author": "Frank Miller",
+      "edition": "DC",
+      "price": 20,
+      "img": "https://i.ebayimg.com/images/g/MZ4AAOSw5ulZsJH8/s-l400.jpg",
+      "stock": "5",
+      "id": 98
+    }
+  ]
+}
