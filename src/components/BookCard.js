@@ -15,7 +15,7 @@ function BookCard({book, handleDelete, handleClick}) {
       </div>
       <div className="details">
   
-    <button onClick={()=>handleClick(book)} className="emoji-button favorite active">Add to Cart</button>
+    <button onClick={()=>handleClick(book)}>Add to Cart</button>
         
       
         

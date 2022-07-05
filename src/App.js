@@ -1,11 +1,11 @@
-import React, { useEffect, useState, useContext } from 'react'
+import React, { useEffect, useState} from 'react'
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import BookStore from './components/BookStore';
 import BookInventoryAddition from './components/BookInventoryAddition'
 import BookCart from './components/BookCart';
-import BookCard from './components/BookCard';
+
 
 function App() {
 
@@ -56,8 +56,8 @@ function App() {
     <>
       <NavBar />
       <Routes>
-
-        <Route path="home" index element={<BookStore books={books} handleDelete={handleDelete} handleClick={handleClick} />} />
+      
+        <Route path="/home" index element={<BookStore books={books} handleDelete={handleDelete} handleClick={handleClick} />} />
         <Route path="inventory" element={<BookInventoryAddition booksUpdate={booksUpdate} />} />
         <Route path="cart" element={<BookCart booksInCart={booksInCart} />} />
       </Routes>

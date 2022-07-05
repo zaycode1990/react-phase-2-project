@@ -62,3 +62,22 @@ code {
   font-family: serif;
   font-size: 1rem;
 }
+
+
+.mb-3 {
+  display: flex;
+  flex-wrap:wrap;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.headingStyle{
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+.buttonStyle{
+display: block;
+margin: auto;
+margin-bottom: 20px;
+}

@@ -119,6 +119,15 @@
       "img": "images/lordoftherings.jpg",
       "price": 27.45,
       "stock": 5
+    },
+    {
+      "title": "The Dark Knight Return",
+      "author": "Frank Miller",
+      "edition": "DC",
+      "price": 20,
+      "img": "https://i.ebayimg.com/images/g/MZ4AAOSw5ulZsJH8/s-l400.jpg",
+      "stock": "5",
+      "id": 98
     }
   ]
 }

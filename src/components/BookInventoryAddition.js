@@ -51,9 +51,11 @@ function BookInventoryAddition({ booksUpdate }) {
         <input type="text" required placeholder='title' value={title} onChange={(e) => { setTitle(e.target.value) }} />
         <input type="text" required placeholder='author' value={author} onChange={(e) => { setAuthor(e.target.value) }} />
         <input type="text" required placeholder='edition' value={edition} onChange={(e) => { setEdition(e.target.value) }} />
-        <input type="text" required placeholder='price' value={price} onChange={(e) => { setPrice(e.target.value) }} />
+        <input type="number" required placeholder='price' value={price} onChange={(e) => {
+           setPrice(parseFloat(e.target.value)) 
+           }} />
         <input type="text" required placeholder='img' value={img} onChange={(e) => { setImg(e.target.value) }} />
-        <input type="text" required placeholder='stock' value={stock} onChange={(e) => { setStock(e.target.value) }} />
+        <input type="number" required placeholder='stock' value={stock} onChange={(e) => {setStock(parseFloat(e.target.value)) }} />
         <button type="submit">Submit</button>
       </form>
     </div>
