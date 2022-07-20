@@ -121,13 +121,16 @@
       "stock": 5
     },
     {
-      "title": "The Dark Knight Return",
-      "author": "Frank Miller",
-      "edition": "DC",
-      "price": 20,
-      "img": "https://i.ebayimg.com/images/g/MZ4AAOSw5ulZsJH8/s-l400.jpg",
-      "stock": "5",
-      "id": 98
+      "title": "The Boys",
+      "author": "Garth Ennis",
+      "edition": "Vol 1",
+      "price": 10,
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/The-Boys_Volume_One.jpg",
+      "stock": 3,
+      "id": 99
     }
-  ]
+  ],
+
+  "reviews": []
+
 }
